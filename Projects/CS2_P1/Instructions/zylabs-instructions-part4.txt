@@ -1,0 +1,17 @@
+In this last part you are going to implement various functions to remove nodes from the list, the other two members of the Big Three, as well as an alternate way of iterating through your nodes to print them using recursion. You'll implement the following:
+
+Removal functions
+
+RemoveHead()
+RemoveTail()
+RemoveAt()
+Remove()
+Clear()
+Big Three
+
+Copy Constructor
+operator=
+Recursive Print Functions
+
+PrintForwardRecursive()
+PrintReverseRecursive()

@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Jackson\Documents\CS_Projects\CS2_Lab6\CS2_Lab6\main.cpp(11,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jackson\Documents\CS_Projects\CS2_Lab6\CS2_Lab6\main.cpp(13,41): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jackson\Documents\CS_Projects\CS2_Lab6\CS2_Lab6\main.cpp(15,34): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jackson\Documents\CS_Projects\CS2_Lab6\CS2_Lab6\main.cpp(18,55): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Jackson\Documents\CS_Projects\CS2_Lab6\CS2_Lab6\main.cpp(20,41): warning C4305: 'argument': truncation from 'double' to 'float'
+  CS2_Lab6.vcxproj -> C:\Users\Jackson\Documents\CS_Projects\CS2_Lab6\Debug\CS2_Lab6.exe

@@ -1,0 +1,21 @@
+In this part you will implement various functions to access parts of the container:
+
+Getting the head and tail nodes:
+
+Head()
+Tail()
+Getting a specific node based on an index--allowing this container to be used as though it were an array**
+
+GetNode()
+operator[]()
+Finding the FIRST node based on a value
+
+Find()
+Finding ALL nodes based on a value
+
+FindAll
+You will also implement the other two members of the Big Three
+
+The copy constructor
+The copy assignment operator
+This part assumes you have written all functionality from the previous part.

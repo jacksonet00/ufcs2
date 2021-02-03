@@ -1,0 +1,243 @@
+﻿  Game.cpp
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(29,102): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(29,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(32,136): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(32,73): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(35,142): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(35,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(38,142): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(38,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(41,142): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(41,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(63,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(63,58): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(66,66): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(66,59): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(75,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(75,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(78,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(78,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(81,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(81,60): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(145,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(146,15): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(232,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(238,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(238,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(242,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(242,46): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(258,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(259,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(263,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(263,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(283,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(284,16): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(288,51): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\CS2_P3\Game.cpp(288,44): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  Generating code
+  4 of 535 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  CS2_P3.vcxproj -> C:\Users\Jackson\Documents\CS_Projects\UF_CS2\Projects\CS2_P3\Release\CS2_P3.exe

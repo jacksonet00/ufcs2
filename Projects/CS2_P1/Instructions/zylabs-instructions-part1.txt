@@ -1,0 +1,22 @@
+The details for this project are in the document "LinkedList.pdf" available on Canvas, on the page "Project 1 - Templated Linked List".
+
+For part 1, you will be implementing the basics of any container:
+
+Ways to add information to the container
+
+AddHead()
+AddTail()
+AddNodesHead()
+AddNodesTail()
+A way to get some information about the container
+
+NodeCount()
+Ways to see the data in the container
+
+PrintForward()
+PrintReverse()
+And some essentials for any class
+
+Default constructor
+Destructor (other members of the Big Three will come later)
+This project will use the memory leak detection functionality contained in leaker.h and leaker.cpp from the previous assignment. Be sure to delete all of the container's nodes in the destructor!

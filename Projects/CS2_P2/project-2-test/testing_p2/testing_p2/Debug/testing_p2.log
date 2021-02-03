@@ -1,0 +1,6 @@
+﻿  TGAReader.cpp
+C:\Users\Jackson\Documents\CS_Projects\CS2_P2\project-2-test\testing_p2\testing_p2\TGAReader.cpp(83): warning C4172: returning address of local variable or temporary: read
+C:\Users\Jackson\Documents\CS_Projects\CS2_P2\project-2-test\testing_p2\testing_p2\TGAReader.cpp(51): warning C4172: returning address of local variable or temporary: read
+C:\Users\Jackson\Documents\CS_Projects\CS2_P2\project-2-test\testing_p2\testing_p2\TGAReader.cpp(21): warning C4172: returning address of local variable or temporary: readImg
+C:\Users\Jackson\Documents\CS_Projects\CS2_P2\project-2-test\testing_p2\testing_p2\TGAReader.cpp(71): warning C4172: returning address of local variable or temporary: imgData
+  testing_p2.vcxproj -> C:\Users\Jackson\Documents\CS_Projects\CS2_P2\project-2-test\testing_p2\Debug\testing_p2.exe

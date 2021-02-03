@@ -1,0 +1,10 @@
+For this part you will implement functionality to insert elements into the linked list, one of the primary advantages of this data structure. (This can be achieved with arrays as well, but it is much faster with a linked list).
+
+You will implement the following:
+
+InsertBefore()
+InsertAfter()
+InsertAt()
+In addition, you will implement the equality operator, to test if two lists are equal to one another.
+
+operator==
